@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @maansi21
-- 👀 I’m interested in coding, dancing
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://www.linkedin.com/in/maansi-srivastava-003a682a5/
+- 👀 I’m interested in learning new software technologies.
+- 🌱 I’m currently learning AR/VR
+- 💞️ I’m looking to collaborate on DSA and Web development.
+- 📫 How to reach me https://www.linkedin.com/in/maansi-srivastava-2102/
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
 
 <!---
 maansi21/maansi21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
